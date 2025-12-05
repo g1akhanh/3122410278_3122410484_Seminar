@@ -1,0 +1,11 @@
+transformers==4.46.0
+torch>=2.1.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+streamlit>=1.39.0
+underthesea>=6.8.0
+vncorenlp>=1.0.3 ; platform_system != "Windows"
+python-dotenv>=1.0.1
+sqlite-utils>=3.36
+
+
